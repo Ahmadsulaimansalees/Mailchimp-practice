@@ -15,7 +15,7 @@ const handlePostRequest = async (req, res) => {
   console.log(`${firstName} ${lastName} - ${emailAddress}`);
 
   client.setConfig({
-    apiKey: "8431e46377479658058c75099df5518",
+    apiKey: "8431e46377479658058c75099df5518f",
     server: "us8",
   });
 
